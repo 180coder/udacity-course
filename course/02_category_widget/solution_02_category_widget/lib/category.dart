@@ -15,7 +15,7 @@ final _borderRadius = BorderRadius.circular(_rowHeight / 2);
 
 /// A custom [Category] widget.
 ///
-/// The widget is composed on an [Icon] and [Text]. Tapping on the widget shows
+/// The widget is composed of an [Icon] and [Text]. Tapping on the widget shows
 /// a colored [InkWell] animation.
 class Category extends StatelessWidget {
   final String name;
